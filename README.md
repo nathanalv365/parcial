@@ -1,7 +1,8 @@
 modelo de Tienda en Línea - Documentación del Proyecto
 
 Este proyecto es una aplicación de tienda en línea desarrollada como parte de un proyecto para una materia de arquitectura de software. La aplicación está diseñada para permitir a los usuarios registrados comprar productos de diferentes categorías, administrar sus perfiles y realizar pagos de manera segura.
-Funcionalidades Principales
+
+Funcionalidades Principales:
 
 La tienda en línea presenta las siguientes funcionalidades clave:
 
